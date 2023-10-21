@@ -14,7 +14,7 @@ Before running this project, make sure you have Python and the following librari
 You can install the dependencies using pip:
 
 ```bash
-pip install flask flask-restful SQLAlchemy
+pip install flask flask-jsonpify flask-sqlalchemy flask-restful
 ```
 
 ## Project Structure
